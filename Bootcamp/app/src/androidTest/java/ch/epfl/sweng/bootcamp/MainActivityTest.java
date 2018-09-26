@@ -24,4 +24,4 @@ public class MainActivityTest {
         onView(withId(R.id.mainGoButton)).perform(click());
         // onView(withId(R.id.greetingMessage)).check(matches(withText("Hello from my unit test!")));
     }
-}
+} 
