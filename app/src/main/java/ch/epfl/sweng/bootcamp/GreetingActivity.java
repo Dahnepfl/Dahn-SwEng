@@ -24,4 +24,4 @@ public class GreetingActivity extends AppCompatActivity {
         textView.setText(message);
 
     }
-cd }
+}
